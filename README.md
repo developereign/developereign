@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Khalid
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Py
-- 📫 You can contact me on Discord(reign#0420) 
+- Coding Enjoyer
+- Discord (reignw.)
